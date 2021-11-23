@@ -1,6 +1,6 @@
 using System;
 using System.Globalization;
-class CordenadasPonto
+class CoordenadasPonto
 {
     static void Main(string[] args)
     {
